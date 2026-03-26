@@ -3,9 +3,9 @@ C module 1
 
 EX NO-1)a)- Finding ASCII value of a given character.
 
-Date:19/10/2025
-Name: VASANTH S
-Ref no: 25017538
+Date:
+Name: SAAGAR S
+Ref no: 25013937
 
 AIM:
 Write a C program to find the ASCII value of a given character
